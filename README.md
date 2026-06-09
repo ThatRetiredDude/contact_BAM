@@ -1,249 +1,311 @@
-# Bricks & Minifigs Store Emails
+# Bricks & Minifigs Store Contacts
 
-**Scraped:** 2026-06-06 15:10 UTC  
-**Locations found:** 268  
-**Locations with email:** 218 (81.3%)  
-**Unique store emails:** 230  
+**Scraped:** 2026-06-07 21:31 UTC  
+**Locations found:** 273  
+**Locations with phone:** 212 (77.7%)  
+**Locations with email:** 222 (81.3%)  
+**Locations with phone or email:** 255 (93.4%)  
+**Unique store emails:** 246  
 
-Public business contact emails collected from official Bricks & Minifigs franchise pages.
+Public business contact info collected from official Bricks & Minifigs franchise pages.
 
-## Store Emails
+## Store Contacts
 
-| Store | State/Region | Email | Source |
-|-------|--------------|-------|--------|
-| Bricks & Minifigs Greenville |  | greenville.sc@bricksandminifigs.com | https://bricksandminifigs.com/greenville-sc/contact-us/ |
-| Bricks & Minifigs Port St. Lucie |  | portstlucie.fl@bricksandminifigs.com | https://bricksandminifigs.com/portstlucie-fl/contact-us/ |
-| Nevada — Las Vegas |  | lasvegassw@bricksandminifigs.com | https://bricksandminifigs.com/lasvegas-nv/ |
-| Huntsville | Alabama | huntsville@bricksandminifigs.com | https://bricksandminifigshuntsville.com/ |
-| Vestavia Hills | Alabama | vestaviahills.al@bricksandminifigs.com | https://bricksandminifigs.com/vestaviahills-al/ |
-| Paradise Valley | Arizona | paradisevalley.az@bricksandminifigs.com | https://bricksandminifigs.com/paradisevalley-az/contact-us/ |
-| Scottsdale | Arizona | scottsdaleaz@bricksandminifigs.com | https://bricksandminifigs.com/scottsdale-az/contact-us/ |
-| Tempe | Arizona | tempe.az@bricksandminifigs.com | https://bricksandminifigs.com/tempe-az/ |
-| Tucson Northwest | Arizona | store@bricksandminifigstucsonnw.com | https://bricksandminifigs.com/tucsonnorthwest-az/ |
-| Avondale | Arizona | avondale@bricksandminifigs.com | https://bricksandminifigs.com/avondale-az/ |
-| Chandler | Arizona | chandler.az@bricksandminifigs.com | https://bricksandminifigs.com/chandler-az/ |
-| North Phoenix | Arizona | northphoenix.az@bricksandminifigs.com | https://bricksandminifigs.com/north-phoenix/ |
-| Peoria | Arizona | peoria.az@bricksandminifigs.com | https://bricksandminifigs.com/peoria-az/ |
-| Southeast Tucson | Arizona | southeast-tucson.az@bricksandminifigs.com | https://bricksandminifigs.com/southeasttucson-az/ |
-| Springdale - NWA | Arkansas | springdale-nwa.ar@bricksandminifigs.com | https://bricksandminifigs.com/springdale-nwa-ar/contact-us/ |
-| Hot Springs | Arkansas | hotsprings.ar@bricksandminifigs.com | https://bricksandminifigs.com/hotsprings-ar/ |
-| Escondido | California | escondido.ca@bricksandminifigs.com | https://bricksandminifigs.com/escondido-ca/contact-us/ |
-| Burbank | California | burbank.ca@bricksandminifigs.com | https://bricksandminifigs.com/burbank-ca/ |
-| Carlsbad | California | carlsbad.ca@bricksandminifigs.com | https://bricksandminifigs.com/carlsbad-ca/contact-us/ |
-| Chula Vista | California | chulavista.ca@bricksandminifigs.com | https://bricksandminifigs.com/chulavista-ca/ |
-| Corona | California | corona.ca@bricksandminifigs.com | https://bricksandminifigs.com/corona-ca/contact-us/ |
-| Costa Mesa | California | costamesa.ca@bricksandminifigs.com | https://bricksandminifigs.com/costamesa-ca/ |
-| Irvine | California | irvine@bricksandminifigs.com | https://bricksandminifigs.com/irvine-ca/ |
-| La Mesa | California | lamesa.ca@bricksandminifigs.com | https://bricksandminifigs.com/lamesa-ca/ |
-| Laguna Niguel | California | lagunaniguel.ca@bricksandminifigs.com | https://bricksandminifigs.com/lagunaniguel-ca/ |
-| Lawndale | California | lawndale.ca@bricksandminifigs.com | https://bricksandminifigs.com/lawndale-ca/ |
-| Orange | California | orange.ca@bricksandminifigs.com | https://bricksandminifigs.com/orange-ca/ |
-| Pasadena | California | pasadena.ca@bricksandminifigs.com | https://bricksandminifigs.com/pasadena-ca/ |
-| Pocket Sacramento | California | pocketsacramento.ca@bricksandminifigs.com | https://bricksandminifigs.com/pocketsacramento-ca/ |
-| Redding | California | redding.ca@bricksandminifigs.com | https://bricksandminifigs.com/redding-ca/ |
-| Redlands | California | redlands.ca@bricksandminifigs.com | https://bricksandminifigs.com/redlands-ca/contact-us/ |
-| San Diego North | California | north.sandiego.ca@bricksandminifigs.com | https://bricksandminifigs.com/sandiegonorth-california/ |
-| San Luis Obispo | California | sanluisobispo.ca@bricksandminifigs.com | https://bricksandminifigs.com/slo-ca/contact-us/ |
-| San Ramon | California | sanramon.ca@bricksandminifigs.com | https://bricksandminifigs.com/sanramon-ca/ |
-| Santa Clarita | California | santaclarita.ca@bricksandminifigs.com | https://bricksandminifigs.com/santaclarita-ca/ |
-| Sherman Oaks | California | shermanoaks.ca@bricksandminifigs.com | https://bricksandminifigs.com/shermanoaks-ca/contact-us/ |
-| Temecula Valley | California | temeculavalley.ca@bricksandminifigs.com | https://bricksandminifigs.com/temeculavalley-ca/ |
-| Whittier | California | whittier@bricksandminifigs.com | https://bricksandminifigs.com/whittier-ca/contact-us/ |
-| Aurora | Colorado | aurora.co@bricksandminifigs.com | https://bricksandminifigs.com/aurora-co/contact-us/ |
-| Montrose | Colorado | arlington.tx@bricksandminifigs.com | https://bricksandminifigs.com/montrose-co/ |
-| Applewood | Colorado | applewood.co@bricksandminifigs.com | https://bricksandminifigs.com/applewood-co/ |
-| Boulder | Colorado | boulder@bricksandminifigs.com | https://bricksandminifigs.com/boulder-co/ |
-| Castle Rock | Colorado | castlerock.co@bricksandminifigs.com | https://bricksandminifigs.com/castlerock-co/contact-us/ |
-| Centennial | Colorado | centennial.co@bricksandminifigs.com | https://bricksandminifigs.com/centennial-co/contact-us/ |
-| Colorado Springs South | Colorado | coloradospringssouth.co@bricksandminifigs.com | https://bricksandminifigs.com/coloradospringssouth-co/ |
-| Littleton | Colorado | littleton@bricksandminifigs.com | https://bricksandminifigs.com/littleton-co/ |
-| Thornton | Colorado | thornton.co@bricksandminifigs.com | https://bricksandminifigs.com/thornton-co/ |
-| Fairfield | Connecticut | fairfield.ct@bricksandminifigs.com | https://bricksandminifigs.com/fairfield-ct/ |
-| Southington | Connecticut | southington.ct@bricksandminifigs.com | https://bricksandminifigs.com/southington-ct/ |
-| Gainesville | Florida | gainesville.fl@bricksandminifigs.com | https://bricksandminifigs.com/gainesville-fl/ |
-| Leesburg | Florida | leesburg.fl@bricksandminifigs.com | https://bricksandminifigs.com/leesburg-fl/contact-us/ |
-| Palm Beach Gardens | Florida | palmbeachgardens.fl@bricksandminifigs.com | https://bricksandminifigs.com/palmbeachgardens-fl/ |
-| Brandon | Florida | brandon.fl@bricksandminifigs.com | https://bricksandminifigs.com/brandon-fl/contact-us/ |
-| Clermont | Florida | clermont.fl@bricksandminifigs.com | https://bricksandminifigs.com/clermont-fl/ |
-| Jacksonville Beach | Florida | jacksonville.beach.fl@bricksandminifigs.com | https://bricksandminifigs.com/jacksonvillebeach-fl/ |
-| Jacksonville Beach | Florida | jacksonville.se.fl@bricksandminifigs.com | https://bricksandminifigs.com/jacksonvillebeach-fl/ |
-| Mount Dora | Florida | mountdora.fl@bricksandminifigs.com | https://bricksandminifigs.com/mountdora-fl/ |
-| Sarasota | Florida | sarasota.fl@bricksandminifigs.com | https://bricksandminifigs.com/sarasota-fl/ |
-| Space Coast | Florida | spacecoast.fl@bricksandminifigs.com | https://bricksandminifigs.com/spacecoast-fl/contact-us/ |
-| St. Petersburg | Florida | st.petersburg.fl@bricksandminifigs.com | https://bricksandminifigs.com/stpetersburg-fl/ |
-| Marietta | Georgia | mariettaga@bricksandminifigs.com | https://bricksandminifigs.com/marietta-ga/contact-us/ |
-| Grayson | Georgia | grayson.ga@bricksandminifigs.com | https://bricksandminifigs.com/grayson-ga/contact-us/ |
-| Smyrna | Georgia | smyrna.ga@bricksandminifigs.com | https://bricksandminifigs.com/smyrna-ga/contact-us/ |
-| Idaho Falls | Idaho | idahofalls.id@bricksandminifigs.com | https://bricksandminifigs.com/idahofalls-id/contact-us/ |
-| Bradley | Illinois | bradley.il@bricksandminifigs.com | https://bricksandminifigs.com/bradley-il/contact-us/ |
-| Algonquin | Illinois | algonquin.il@bricksandminifigs.com | https://bricksandminifigs.com/algonquin-il/ |
-| Carol Stream | Illinois | carolstream.il@bricksandminifigs.com | https://bricksandminifigs.com/carolstream-il/ |
-| Crest Hill | Illinois | cresthill@bricksandminifigs.com | https://bricksandminifigs.com/cresthill-il/contact-us/ |
-| Glen Carbon | Illinois | glencarbon.il@bricksandminifigs.com | https://bricksandminifigs.com/glencarbon-il/ |
-| Glen Carbon | Illinois | st.louis-2@bricksandminifigs.com | https://bricksandminifigs.com/glencarbon-il/ |
-| Naperville | Illinois | naperville.il@bricksandminifigs.com | https://bricksandminifigs.com/naperville-il/ |
-| Niles | Illinois | niles.il@bricksandminifigs.com | https://bricksandminifigs.com/niles-il/ |
-| Schaumburg | Illinois | schaumburg.il@bricksandminifigs.com | https://bricksandminifigs.com/schaumburg-il/contact-us/ |
-| Schererville | Indiana | schererville.in@bricksandminifigs.com | https://bricksandminifigs.com/schererville-in/contact-us/ |
-| Fort Wayne | Indiana | fortwayne.in@bricksandminifigs.com | https://bricksandminifigs.com/fortwayne-in/contact-us/ |
-| Mishawaka | Indiana | mishawaka.in@bricksandminifigs.com | https://bricksandminifigs.com/mishawaka-in/contact-us/ |
-| Des Moines West | Iowa | desmoineswest.ia@bricksandminifigs.com | https://bricksandminifigs.com/desmoineswest-ia/ |
-| Mission | Kansas | mission.ks@bricksandminifigs.com | https://bricksandminifigs.com/mission-ks/contact-us/ |
-| Overland Park | Kansas | op_ks@bricksandminifigs.com | https://bricksandminifigs.com/overlandpark-ks/ |
-| Wichita | Kansas | wichita.ks@bricksandminifigs.com | https://bricksandminifigs.com/wichita-ks/ |
-| Richmond | Kentucky | richmond.ky@bricksandminifigs.com | https://bricksandminifigs.com/richmond-ky/ |
-| Bowling Green | Kentucky | bowlinggreen.ky@bricksandminifigs.com | https://bricksandminifigs.com/bowlinggreen-ky/ |
-| Lexington | Kentucky | lexington@bricksandminifigs.com | https://bricksandminifigs.com/lexington-ky/ |
-| Baton Rouge South | Louisiana | batonrougesouth.la@bricksandminifigs.com | https://bricksandminifigs.com/batonrougesouth-la/ |
-| Metairie | Louisiana | metairie.la@bricksandminifigs.com | https://bricksandminifigs.com/metairie-la/contact-us/ |
-| Cockeysville | Maryland | owner.178@bricksandminifigs.com | https://bricksandminifigs.com/cockeysville-md/ |
-| Newton | Massachusetts | newton.ma@bricksandminifigs.com | https://bricksandminifigs.com/newton-ma/ |
-| Novi | Michigan | novi.mi@bricksandminifigs.com | https://bricksandminifigs.com/novi-mi/contact-us/ |
-| Royal Oak | Michigan | royaloak.mi@bricksandminifigs.com | https://bricksandminifigs.com/royaloak-mi/contact-us/ |
-| Saint Joseph | Michigan | saintjoseph.mi@bricksandminifigs.com | https://bricksandminifigs.com/saintjoseph-mi/contact-us/ |
-| Walker | Michigan | walker.mi@bricksandminifigs.com | https://bricksandminifigs.com/walker-mi/contact-us/ |
-| Ann Arbor | Michigan | annarbor.mi@bricksandminifigs.com | https://bricksandminifigs.com/annarbor-mi/contact-us/ |
-| Clinton Township | Michigan | clintontownship.mi@bricksandminifigs.com | https://bricksandminifigs.com/clintontownship-mi/ |
-| Downriver | Michigan | downriver.mi@bricksandminifigs.com | https://bricksandminifigs.com/downriver-mi/contact-us/ |
-| Grandville | Michigan | grandville.mi@bricksandminifigs.com | https://bricksandminifigs.com/grandville-mi/ |
-| Kalamazoo | Michigan | bamkalamazoo@gmail.com | https://bricksandminifigs.com/kalamazoo-mi/ |
-| Kalamazoo | Michigan | bamkalamazooparties@gmail.com | https://bricksandminifigs.com/kalamazoo-mi/ |
-| Kalamazoo | Michigan | bamkalamzooparties@gmail.com | https://bricksandminifigs.com/kalamazoo-mi/ |
-| Kalamazoo | Michigan | kalamazoo.mi@bricksandminifigs.com | https://bricksandminifigs.com/kalamazoo-mi/ |
-| Midland | Michigan | midland.mi@bricksandminifigs.com | https://bricksandminifigs.com/midland-mi/ |
-| Woodbury | Minnesota | woodbury.mn@bricksandminifigs.com | https://bricksandminifigs.com/woodbury-mn/ |
-| Champlin | Minnesota | champlin.mn@bricksandminifigs.com | https://bricksandminifigs.com/champlin-mn/ |
-| Highland Park | Minnesota | highlandpark.mn@bricksandminifigs.com | https://bricksandminifigs.com/highlandpark-mn/ |
-| Mankato | Minnesota | mankato.mn@bricksandminifigs.com | https://bricksandminifigs.com/mankato-mn/contact-us/ |
-| Minnetonka | Minnesota | minnetonka.mn@bricksandminifigs.com | https://bricksandminifigs.com/minnetonka-mn/ |
-| Rochester | Minnesota | rochester.mn@bricksandminifigs.com | https://bricksandminifigs.com/rochester-mn/ |
-| Shakopee | Minnesota | shakopee.mn@bricksandminifigs.com | https://bricksandminifigs.com/shakopee-mn/contact-us/ |
-| Hernando | Mississippi | hernando.ms@bricksandminifigs.com | https://bricksandminifigs.com/hernando-ms/contact-us/ |
-| Lees Summit | Missouri | leessummit.mo@bricksandminifigs.com | https://bricksandminifigs.com/leessummit-mo/contact-us/ |
-| O'Fallon | Missouri | fallon.mo@bricksandminifigs.com | https://bricksandminifigs.com/ofallon-mo/ |
-| O'Fallon | Missouri | o’fallon.mo@bricksandminifigs.com | https://bricksandminifigs.com/ofallon-mo/ |
-| Springfield | Missouri | springfield.mo@bricksandminifigs.com | https://bricksandminifigs.com/springfield-mo/ |
-| Missoula | Montana | missoula.mt@bricksandminifigs.com | https://bricksandminifigs.com/missoula-mt/contact-us/ |
-| Billings | Montana | billings.mt@bricksandminifigs.com | https://bricksandminifigs.com/billings-mt/ |
-| Great Falls | Montana | greatfalls.mt@bricksandminifigs.com | https://bricksandminifigs.com/greatfalls-mt/ |
-| Henderson | Nevada | henderson.nv@bricksandminifigs.com | https://bricksandminifigs.com/henderson-nv/ |
-| Portsmouth | New Hampshire | portsmouth.nh@bricksandminifigs.com | https://bricksandminifigs.com/portsmouth-nh/contact-us/ |
-| Cherry Hill | New Jersey | cherryhill.nj@bricksandminifigs.com | https://bricksandminifigs.com/cherryhill-nj/ |
-| Manahawkin | New Jersey | manahawkin.nj@bricksandminifigs.com | https://bricksandminifigs.com/manahawkin-nj/contact-us/ |
-| North Syracuse | New York | northsyracuse.ny@bricksandminifigs.com | https://bricksandminifigs.com/northsyracuse-ny/contact-us/ |
-| Westchester | New York | westchester.ny@bricksandminifigs.com | https://bricksandminifigs.com/westchester-newyork/contact-us/ |
-| Buffalo Southtowns | New York | buffalo.south.ny@bricksandminifigs.com | https://bricksandminifigs.com/buffalosouthtowns-ny/ |
-| Buffalo Southtowns | New York | buffalosouthtowns.ny@bricksandminifigs.com | https://bricksandminifigs.com/buffalosouthtowns-ny/ |
-| Jacksonville | North Carolina | jacksonville.nc@bricksandminifigs.com | https://bricksandminifigs.com/jacksonville-nc/contact-us/ |
-| Jacksonville | North Carolina | jacksonville.nc@bricks | https://bricksandminifigs.com/jacksonville-nc/contact-us/ |
-| Sanford | North Carolina | sanford.nc@bricksandminifigs.com | https://bricksandminifigs.com/sanford-nc/contact-us/ |
-| Cary | North Carolina | cary.nc@bricksandminifigs.com | https://bricksandminifigs.com/cary-nc/ |
-| Downtown Raleigh | North Carolina | downtownraleigh.nc@bricksandminifigs.com | https://bricksandminifigs.com/downtown-raleigh-nc/contact-us/ |
-| Durham | North Carolina | durham.nc@bricksandminifigs.com | https://bricksandminifigs.com/durham-nc/ |
-| Greensboro | North Carolina | greensboro.nc@bricksandminifigs.com | https://bricksandminifigs.com/greensboro-nc/contact-us/ |
-| Hickory | North Carolina | hickory.nc@bricksandminifigs.com | https://bricksandminifigs.com/hickory-nc/ |
-| Huntersville | North Carolina | huntersville.nc@bricksandminifigs.com | https://bricksandminifigs.com/charlotte-huntersville-nc/ |
-| Indian Trail | North Carolina | indian.trail.nc@bricksandminifigs.com | https://bricksandminifigs.com/indiantrail-nc/ |
-| Kernersville | North Carolina | kernersville.nc@bricksandminifigs.com | https://bricksandminifigs.com/kernersville-nc/ |
-| North Raleigh | North Carolina | n.raleigh.nc@bricksandminifigs.com | https://bricksandminifigs.com/northraleigh-nc/ |
-| Winston-Salem | North Carolina | winston-salem.nc@bricksandminifigs.com | https://bricksandminifigs.com/winstonsalem-nc/ |
-| Akron | Ohio | akron.oh@bricksandminifigs.com | https://bricksandminifigs.com/akron-oh/ |
-| Maineville | Ohio | maineville.oh@bricksandminifigs.com | https://bricksandminifigs.com/maineville-oh/ |
-| Cincinnati East | Ohio | cincinnati-east.oh@bricksandminifigs.com | https://bricksandminifigs.com/cincinnatieast-oh/contact-us/ |
-| Grandview | Ohio | grandview.oh@bricksandminifigs.com | https://bricksandminifigs.com/grandview-oh/ |
-| Hamilton | Ohio | events.hamilton.oh@bricksandminifigs.com | https://bricksandminifigs.com/hamilton-oh/ |
-| Hamilton | Ohio | hamilton.oh@bricksandminifigs.com | https://bricksandminifigs.com/hamilton-oh/ |
-| Hilliard | Ohio | hilliard.oh@bricksandminifigs.com | https://bricksandminifigs.com/hilliard-oh/ |
-| Powell | Ohio | powell.oh@bricksandminifigs.com | https://bricksandminifigs.com/powell-oh/ |
-| Toledo | Ohio | toledo.oh@bricksandminifigs.com | https://bricksandminifigs.com/toledo-oh/ |
-| Westerville | Ohio | westerville.oh@bricksandminifigs.com | https://bricksandminifigs.com/westerville-oh/ |
-| Central Oklahoma City | Oklahoma | central.okc.ok@bricksandminifigs.com | https://bricksandminifigs.com/centraloklahomacity-ok/ |
-| Kitchener Waterloo | Ontario | kitchenerwaterloo.on@bricksandminifigs.com | https://bricksandminifigs.com/kitchenerwaterloo-on/ |
-| Canby | Oregon | canby@bricksandminifigs.com | https://bricksandminifigs.com/canby-or/contact-us/ |
-| Eugene | Oregon | eugene@bricksandminifigs.com | https://bricksandminifigs.com/eugene-or/ |
-| Gresham | Oregon | gresham.or@bricksandminifigs.com | https://bricksandminifigs.com/gresham-or/contact-us/ |
-| Medford | Oregon | medford.or@bricksandminifigs.com | https://bricksandminifigs.com/medford-or/contact-us/ |
-| Portland | Oregon | nate.funk@bricksandminifigs.com | https://bricksandminifigs.com/portland-or/ |
-| Portland | Oregon | portland@bricksandminifigs.com | https://bricksandminifigs.com/portland-or/ |
-| Salem | Oregon | salem@bricksandminifigs.com | https://bricksandminifigs.com/salem-or/ |
-| Pittsburgh North | Pennsylvania | pittsburghnorth.pa@bricksandminifigs.com | https://bricksandminifigs.com/pittsburghnorth-pa/contact-us/ |
-| Limerick | Pennsylvania | limerick.pa@bricksandminifigs.com | https://bricksandminifigs.com/limerick-pa/contact-us/ |
-| Zelienople | Pennsylvania | zelienople.pa@bricksandminifigs.com | https://bricksandminifigs.com/zelienople-pa/ |
-| Warwick | Rhode Island | providence1.ri@bricksandminifigs.com | https://bricksandminifigs.com/warwick-ri/ |
-| Warwick | Rhode Island | warwick.ri@bricksandminifigs.com | https://bricksandminifigs.com/warwick-ri/ |
-| Houston, Texas | River Oaks | riveroaks.tx@bricksandminifigs.co | https://bricksandminifigs.com/riveroaks-tx/contact-us/ |
-| Houston, Texas | River Oaks | riveroaks.tx@bricksandminifigs.com | https://bricksandminifigs.com/riveroaks-tx/contact-us/ |
-| Easley | South Carolina | easley.sc@bricksandminifigs.com | https://bricksandminifigs.com/easley-sc/ |
-| Clemson | South Carolina | clemson.sc@bricksandminifigs.com | https://bricksandminifigs.com/clemson-sc/ |
-| Fort Mill | South Carolina | fortmill.sc@bricksandminifigs.com | https://bricksandminifigs.com/fortmill-sc/ |
-| Greer | South Carolina | greer.sc@bricksandminifigs.com | https://bricksandminifigs.com/greer-sc/contact-us/ |
-| Myrtle Beach | South Carolina | myrtlebeach.sc@bricksandminifigs.com | https://bricksandminifigs.com/myrtlebeach-sc/ |
-| Sioux Falls | South Dakota | siouxfalls@bricksandminifigs.com | https://bricksandminifigs.com/siouxfalls-sd/ |
-| Brentwood | Tennessee | brentwood.tn@bricksandminifigs.com | https://bricksandminifigs.com/brentwood-tn/contact-us/ |
-| Brentwood | Tennessee | events.brentwood.tn@bricksandminifigs.com | https://bricksandminifigs.com/brentwood-tn/contact-us/ |
-| Chattanooga | Tennessee | chattanooga.tn@bricksandminifigs.com | https://bricksandminifigs.com/chattanooga-tn/ |
-| Hendersonville | Tennessee | hendersonville.tn@bricksandminifigs.com | https://bricksandminifigs.com/hendersonville-tn/ |
-| Murfreesboro | Tennessee | murfreesboro.tn@bricksandminifigs.com | https://bricksandminifigs.com/murfreesboro-tn/contact-us/ |
-| Greater Heights | Texas | greaterheights.tx@bricksandminifigs.com | https://bricksandminifigs.com/greaterheights-tx/ |
-| McAllen | Texas | mcallen.tx@bricksandminifigs.com | https://bricksandminifigs.com/mcallen-tx/ |
-| New Braunfels | Texas | selma.tx@bricksandminifigs.com | https://bricksandminifigs.com/selma-tx/ |
-| Pasadena | Texas | owner.321@bricksandminifigs.com | https://bricksandminifigs.com/pasadena-tx/contact-us/ |
-| Roundrock | Texas | roundrock.tx@bricksandminifigs.com | https://bricksandminifigs.com/roundrock-tx/contact-us/ |
-| Amarillo | Texas | amarillo.tx@bricksandminifigs.com | https://bricksandminifigs.com/amarillo-tx/contact-us/ |
-| Arlington | Texas | arlington.tx@bricksandminifigs.com | https://bricksandminifigs.com/arlington-tx/ |
-| Austin | Texas | austin4@bricksandminifigs.com | https://bricksandminifigs.com/austin-tx/contact-us/ |
-| Austin South | Texas | southaustin.tx@bricksandminifigs.com | https://bricksandminifigs.com/southaustin-tx/ |
-| Bee Cave | Texas | beecave.tx@bricksandminifigs.com | https://bricksandminifigs.com/beecave-tx/ |
-| College Station | Texas | collegestation.tx@bricksandminifigs.com | https://bricksandminifigs.com/collegestation-tx/ |
-| Conroe | Texas | conroe.tx@bricksandminifigs.com | https://bricksandminifigs.com/conroe-tx/contact-us/ |
-| Corpus Christi | Texas | corpuschristi.tx@bricksandminifigs.com | https://bricksandminifigs.com/corpuschristi-tx/ |
-| Cypress | Texas | cypress.tx@bricksandminifigs.com | https://bricksandminifigs.com/cypress-tx/ |
-| El Paso | Texas | elpaso.tx@bricksandminifigs.com | https://bricksandminifigs.com/elpaso-tx/ |
-| Fair Oaks | Texas | fairoaks.tx@bricksandminifigs.com | https://bricksandminifigs.com/fairoaks-tx/ |
-| Frisco | Texas | frisco.tx@bricksandminifigs.com | https://bricksandminifigs.com/frisco-tx/ |
-| Grapevine | Texas | grapevine.tx-2@bricksandminifigs.com | https://bricksandminifigs.com/grapevine-tx/contact-us/ |
-| Katy | Texas | katy.tx@bricksandminifigs.com | https://bricksandminifigs.com/katy-tx/ |
-| League City | Texas | leaguecity.tx@bricksandminifigs.com | https://bricksandminifigs.com/leaguecity-tx/contact-us/ |
-| Mckinney | Texas | mckinney.tx@bricksandminifigs.com | https://bricksandminifigs.com/mckinney-tx/contact-us/ |
-| Meyerland | Texas | meyerland.tx@bricksandminifigs.com | https://bricksandminifigs.com/meyerland-tx/ |
-| Pantego | Texas | pantego.tx@bricksandminifigs.com | https://bricksandminifigs.com/pantego-tx/contact-us/ |
-| Pearland | Texas | pearland@bricksandminifigs.com | https://bricksandminifigs.com/pearland-tx/contact-us/ |
-| San Antonio NE | Texas | bamsa@bricksandminifigs.com | https://bricksandminifigs.com/sanantonio-tx/ |
-| San Antonio NE | Texas | sanantonio.nw.tx@bricksandminifigs.com | https://bricksandminifigs.com/sanantonio-tx/ |
-| San Antonio NW | Texas | bamsa@bricksandminifigs.com | https://bricksandminifigs.com/helotes-tx/ |
-| San Antonio NW | Texas | sanantonio.nw.tx@bricksandminifigs.com | https://bricksandminifigs.com/helotes-tx/ |
-| Spring | Texas | spring.tx@bricksandminifigs.com | https://bricksandminifigs.com/spring-tx/ |
-| Sugar Land | Texas | sugarland.tx@bricksandminifigs.com | https://bricksandminifigs.com/sugarland-tx/ |
-| Tomball | Texas | tomball.tx@bricksandminifigs.com | https://bricksandminifigs.com/tomball-tx/contact-us/ |
-| Tyler | Texas | tyler.tx@bricksandminifigs.com | https://bricksandminifigs.com/tyler-tx/ |
-| St. George | Utah | saintgeorge.ut@bricksandminifigs.com | https://bricksandminifigs.com/stgeorge-ut/contact-us/ |
-| Bountiful | Utah | bountiful.ut@bricksandminifigs.com | https://bricksandminifigs.com/bountiful-ut/ |
-| Logan | Utah | logan.ut@bricksandminifigs.com | https://bricksandminifigs.com/logan-ut/ |
-| Ogden | Utah | ogden.ut@bricksandminifigs.com | https://bricksandminifigs.com/ogden-ut/ |
-| Orem | Utah | orem@bricksandminifigs.com | https://bricksandminifigs.com/orem-ut/ |
-| Salt Lake City | Utah | slc@bricksandminifigs.com | https://bricksandminifigs.com/saltlakecity-ut/ |
-| South Jordan | Utah | southjordan@bricksandminifigs.com | https://bricksandminifigs.com/southjordan-ut/ |
-| Taylorsville | Utah | taylorsville.ut@bricksandminifigs.com | https://bricksandminifigs.com/taylorsville-ut/ |
-| Alexandria | Virginia | alexandria.va@bricksandminifigs.com | https://bricksandminifigs.com/alexandria-va/contact-us/ |
-| Charlottesville | Virginia | charlottesville@bricksandminifigs.com | https://bricksandminifigs.com/charlottesville-va/ |
-| Fredericksburg | Virginia | fredericksburg.va@bricksandminifigs.com | https://bricksandminifigs.com/fredericksburg-va/contact/ |
-| Herndon | Virginia | herndon.va@bricksandminifigs.com | https://bricksandminifigs.com/herndon-va/ |
-| Richmond | Virginia | richmondwestend.va@bricksandminifigs.com | https://bricksandminifigs.com/richmond-va/ |
-| Richmond-Southside | Virginia | richmondsouthside.va@bricksandminifigs.com | https://bricksandminifigs.com/richmondsouthside-va/ |
-| Williamsburg | Virginia | williamsburg.va@bricksandminifigs.com | https://bricksandminifigs.com/williamsburg-va/ |
-| Woodbridge | Virginia | woodbridge.va@bricksandminifigs.com | https://bricksandminifigs.com/woodbridge-va/contact-us/ |
-| Federal Way | Washington | federalway.wa@bricksandminifigs.com | https://bricksandminifigs.com/federalway-wa/ |
-| Issaquah | Washington | issaquah.wa@bricksandminifigs.com | https://bricksandminifigs.com/issaquah-wa/ |
-| Olympia | Washington | olympia.wa@bricksandminifigs.com | https://bricksandminifigs.com/olympia-wa/ |
-| South Everett | Washington | southeverett.wa@bricksandminifigs.com | https://bricksandminifigs.com/southeverett-wa/ |
-| Wenatchee | Washington | wenatchee.wa@bricksandminifigs.com | https://bricksandminifigs.com/wenatchee-wa/ |
-| Beaver Dam | Wisconsin | beaverdam.wi@bricksandminifigs.com | https://bricksandminifigs.com/beaverdam-wi/ |
-| Brookfield | Wisconsin | brookfield.wi@bricksandminifigs.com | https://bricksandminifigs.com/brookfield-wi/ |
-| Fox Valley | Wisconsin | foxvalley.wi@bricksandminifigs.com | https://bricksandminifigs.com/foxvalley-wi/ |
-| Franklin | Wisconsin | franklin.wi@bricksandminifigs.com | https://bricksandminifigs.com/franklin-wi/ |
-| Kenosha | Wisconsin | kenosha.wi@bricksandminifigs.com | https://bricksandminifigs.com/kenosha-wi/ |
-| North Shore MKE | Wisconsin | northshore.mke.wi@bricksandminifigs.com | https://bricksandminifigs.com/northshoremke-wi/ |
-| spartanburg | south carolina | spartanburg.sc@bricksandminifigs.com | https://bricksandminifigs.com/spartanburg-sc/ |
+| Store | State/Region | Phone | Email | Source |
+|-------|--------------|-------|-------|--------|
+| Bricks & Minifigs Greenville |  | (864) 214-1566 | greenville.sc@bricksandminifigs.com | https://bricksandminifigs.com/greenville-sc/contact-us/ |
+| Bricks & Minifigs Port St. Lucie |  |  | portstlucie.fl@bricksandminifigs.com | https://bricksandminifigs.com/portstlucie-fl/contact-us/ |
+| Nevada — Las Vegas |  | (702) 661-9199 | lasvegassw@bricksandminifigs.com | https://bricksandminifigs.com/lasvegas-nv/ |
+| Huntsville | Alabama | (256) 644-9898 | huntsville@bricksandminifigs.com | https://bricksandminifigshuntsville.com/ |
+| Vestavia Hills | Alabama | (205) 582-2262, (615) 602-2246 | vestaviahills.al@bricksandminifigs.com | https://bricksandminifigs.com/vestaviahills-al/ |
+| Paradise Valley | Arizona | (480) 389-8561 | paradisevalley.az@bricksandminifigs.com | https://bricksandminifigs.com/paradisevalley-az/contact-us/ |
+| Scottsdale | Arizona | (480) 404-6879 | scottsdaleaz@bricksandminifigs.com | https://bricksandminifigs.com/scottsdale-az/contact-us/ |
+| Tempe | Arizona | (480) 997-8221 | tempe.az@bricksandminifigs.com | https://bricksandminifigs.com/tempe-az/ |
+| Tucson Northwest | Arizona |  | store@bricksandminifigstucsonnw.com | https://bricksandminifigs.com/tucsonnorthwest-az/ |
+| Avondale | Arizona | (623) 518-3113 | avondale@bricksandminifigs.com | https://bricksandminifigs.com/avondale-az/ |
+| Central Phoenix | Arizona | (602) 675-1392 |  | https://bricksandminifigs.com/central-phoenix-az/ |
+| Chandler | Arizona | (480) 336-2050 | chandler.az@bricksandminifigs.com | https://bricksandminifigs.com/chandler-az/ |
+| Gilbert | Arizona | (480) 588-3953 |  | https://bricksandminifigs.com/gilbert-az/ |
+| Mesa Red Mountain | Arizona | (480) 565-6166 |  | https://bricksandminifigs.com/mesaredmtn-az/ |
+| North Phoenix | Arizona | (602) 919-6284 | northphoenix.az@bricksandminifigs.com | https://bricksandminifigs.com/north-phoenix/ |
+| Peoria | Arizona | (480) 973-0612 | peoria.az@bricksandminifigs.com | https://bricksandminifigs.com/peoria-az/ |
+| Southeast Tucson | Arizona | (520) 465-6774 | southeast-tucson.az@bricksandminifigs.com | https://bricksandminifigs.com/southeasttucson-az/ |
+| Springdale - NWA | Arkansas | (479) 402-9697 | springdale-nwa.ar@bricksandminifigs.com | https://bricksandminifigs.com/springdale-nwa-ar/contact-us/ |
+| Hot Springs | Arkansas |  | hotsprings.ar@bricksandminifigs.com | https://bricksandminifigs.com/hotsprings-ar/ |
+| Loveland 1449 Denver Ave Loveland, CO 80525 | CO | (970) 888-3783 |  | https://bricksandminifigs.com/loveland-co/contact-us/ |
+| Escondido | California |  | escondido.ca@bricksandminifigs.com | https://bricksandminifigs.com/escondido-ca/contact-us/ |
+| Anaheim | California | (657) 378-9777 |  | https://bricksandminifigs.com/anaheim-ca/ |
+| Burbank | California |  | burbank.ca@bricksandminifigs.com | https://bricksandminifigs.com/burbank-ca/ |
+| Camarillo 1727-A East Daily Dr Camarillo, CA 93010 | California |  | camarillo.ca@bricksandminifigs.com | https://bricksandminifigs.com/camarillo-ca/contact-us/ |
+| Carlsbad | California | (760) 696-3061 | carlsbad.ca@bricksandminifigs.com | https://bricksandminifigs.com/carlsbad-ca/contact-us/ |
+| Chula Vista | California |  | chulavista.ca@bricksandminifigs.com | https://bricksandminifigs.com/chulavista-ca/ |
+| Corona | California | (951) 268-6193 | corona.ca@bricksandminifigs.com | https://bricksandminifigs.com/corona-ca/contact-us/ |
+| Costa Mesa | California | (949) 287-6193 | costamesa.ca@bricksandminifigs.com | https://bricksandminifigs.com/costamesa-ca/ |
+| Irvine | California |  | irvine@bricksandminifigs.com | https://bricksandminifigs.com/irvine-ca/ |
+| La Mesa | California | (619) 439-6566 | lamesa.ca@bricksandminifigs.com | https://bricksandminifigs.com/lamesa-ca/ |
+| Laguna Niguel | California |  | lagunaniguel.ca@bricksandminifigs.com | https://bricksandminifigs.com/lagunaniguel-ca/ |
+| Lawndale | California |  | lawndale.ca@bricksandminifigs.com | https://bricksandminifigs.com/lawndale-ca/ |
+| Ontario | California | (909) 321-0022 |  | https://bricksandminifigs.com/ontario-ca/ |
+| Ontario | California | (909) 391-8248 |  | https://bricksandminifigs.com/ontario-ca/ |
+| Orange | California | (714) 602-6140 | %20orange.ca@bricksandminifigs.com | https://bricksandminifigs.com/orange-ca/ |
+| Orange | California |  | orange.ca@bricksandminifigs.com | https://bricksandminifigs.com/orange-ca/ |
+| Pasadena | California | (626) 228-2971 | pasadena.ca@bricksandminifigs.com | https://bricksandminifigs.com/pasadena-ca/ |
+| Pocket Sacramento | California | (916) 623-5896 | pocketsacramento.ca@bricksandminifigs.com | https://bricksandminifigs.com/pocketsacramento-ca/ |
+| Redding | California | (530) 255-8112 | redding.ca@bricksandminifigs.com | https://bricksandminifigs.com/redding-ca/ |
+| Redlands | California |  | redlands.ca@bricksandminifigs.com | https://bricksandminifigs.com/redlands-ca/contact-us/ |
+| San Diego Central 4242 Camino Del Rio North Suite 7 San Diego, CA 92108 | California | (877) 594-0246 |  | https://bricksandminifigs.com/sandiegowest-ca/contact-us/ |
+| San Diego North | California | (858) 365-7040 | north.sandiego.ca@bricksandminifigs.com | https://bricksandminifigs.com/sandiegonorth-california/ |
+| San Luis Obispo | California | (805) 439-3788 | sanluisobispo.ca@bricksandminifigs.com | https://bricksandminifigs.com/slo-ca/contact-us/ |
+| San Luis Obispo | California |  | slo.ca@bricksandminifigs.com | https://bricksandminifigs.com/slo-ca/ |
+| San Ramon | California | (925) 217-4511 | sanramon.ca@bricksandminifigs.com | https://bricksandminifigs.com/sanramon-ca/ |
+| Santa Clarita | California | (661) 651-1612 | santaclarita.ca@bricksandminifigs.com | https://bricksandminifigs.com/santaclarita-ca/ |
+| Sherman Oaks | California |  | shermanoaks.ca@bricksandminifigs.com | https://bricksandminifigs.com/shermanoaks-ca/contact-us/ |
+| Temecula Valley | California | (951) 331-2931 | temeculavalley.ca@bricksandminifigs.com | https://bricksandminifigs.com/temeculavalley-ca/ |
+| Whittier | California | (562) 905-6008 | whittier@bricksandminifigs.com | https://bricksandminifigs.com/whittier-ca/contact-us/ |
+| Aurora | Colorado | (720) 707-6119 | aurora.co@bricksandminifigs.com | https://bricksandminifigs.com/aurora-co/contact-us/ |
+| Montrose | Colorado | (682) 323-4188 | arlington.tx@bricksandminifigs.com | https://bricksandminifigs.com/montrose-co/ |
+| Applewood | Colorado |  | applewood.co@bricksandminifigs.com | https://bricksandminifigs.com/applewood-co/ |
+| Boulder | Colorado |  | boulder@bricksandminifigs.com | https://bricksandminifigs.com/boulder-co/ |
+| Castle Rock | Colorado | (720) 388-5025 | castlerock.co@bricksandminifigs.com | https://bricksandminifigs.com/castlerock-co/contact-us/ |
+| Centennial | Colorado | (720) 636-5556 | centennial.co@bricksandminifigs.com | https://bricksandminifigs.com/centennial-co/contact-us/ |
+| Colorado Springs North | Colorado | (719) 309-6196 |  | https://bricksandminifigs.com/northcoloradosprings-co/contact-us/ |
+| Colorado Springs South | Colorado |  | coloradospringssouth.co@bricksandminifigs.com | https://bricksandminifigs.com/coloradospringssouth-co/ |
+| Littleton | Colorado | (720) 484-5700 | littleton@bricksandminifigs.com | https://bricksandminifigs.com/littleton-co/ |
+| Pueblo | Colorado | (615) 766-5929 |  | https://bricksandminifigs.com/pueblo-co/ |
+| Thornton | Colorado | (303) 953-9146 | thornton.co@bricksandminifigs.com | https://bricksandminifigs.com/thornton-co/ |
+| Fairfield | Connecticut | (203) 275-8919 | fairfield.ct@bricksandminifigs.com | https://bricksandminifigs.com/fairfield-ct/ |
+| Southington | Connecticut | (860) 855-5047 | southington.ct@bricksandminifigs.com | https://bricksandminifigs.com/southington-ct/ |
+| Gainesville | Florida | (352) 877-2513 | gainesville.fl@bricksandminifigs.com | https://bricksandminifigs.com/gainesville-fl/ |
+| Leesburg | Florida |  | leesburg.fl@bricksandminifigs.com | https://bricksandminifigs.com/leesburg-fl/contact-us/ |
+| Palm Beach Gardens | Florida |  | palmbeachgardens.fl@bricksandminifigs.com | https://bricksandminifigs.com/palmbeachgardens-fl/ |
+| Brandon | Florida | (813) 702-5033 | brandon.fl@bricksandminifigs.com | https://bricksandminifigs.com/brandon-fl/contact-us/ |
+| Clearwater | Florida | (727) 516-7512 |  | https://bricksandminifigs.com/clearwater-fl/contact-us/ |
+| Clermont | Florida | (352) 901-3283 | clermont.fl@bricksandminifigs.com | https://bricksandminifigs.com/clermont-fl/ |
+| Jacksonville Beach | Florida | (904) 227-8141 | jacksonville.beach.fl@bricksandminifigs.com | https://bricksandminifigs.com/jacksonvillebeach-fl/ |
+| Jacksonville Beach | Florida |  | jacksonville.se.fl@bricksandminifigs.com | https://bricksandminifigs.com/jacksonvillebeach-fl/ |
+| Mount Dora | Florida | (352) 977-3095 | mountdora.fl@bricksandminifigs.com | https://bricksandminifigs.com/mountdora-fl/ |
+| Orlando South | Florida | (407) 203-3485 |  | https://bricksandminifigs.com/orlandosouth-fl/contact-us/ |
+| Port Charlotte | Florida | (941) 875-5073 |  | https://bricksandminifigs.com/port-charlotte-fl/ |
+| Sarasota | Florida | (941) 777-2241 | sarasota.fl@bricksandminifigs.com | https://bricksandminifigs.com/sarasota-fl/ |
+| Space Coast | Florida | (321) 241-6406 | spacecoast.fl@bricksandminifigs.com | https://bricksandminifigs.com/spacecoast-fl/contact-us/ |
+| St. Petersburg | Florida | (727) 289-4808 | st.petersburg.fl@bricksandminifigs.com | https://bricksandminifigs.com/stpetersburg-fl/ |
+| Marietta | Georgia | (678) 491-8288 | mariettaga@bricksandminifigs.com | https://bricksandminifigs.com/marietta-ga/contact-us/ |
+| Grayson | Georgia | (770) 559-6333 | grayson.ga@bricksandminifigs.com | https://bricksandminifigs.com/grayson-ga/contact-us/ |
+| Johns Creek | Georgia | (678) 825-2976 | johnscreek@bricksandminifigs.com | https://bricksandminifigsjohnscreek.myshopify.com/pages/contact-us |
+| Smyrna | Georgia | (470) 857-1514 | smyrna.ga@bricksandminifigs.com | https://bricksandminifigs.com/smyrna-ga/contact-us/ |
+| Coeur d'Alene | Idaho | (208) 667-5131 |  | https://bricksandminifigs.com/coeurdalene-id/contact-us/ |
+| Boise | Idaho | (208) 377-4386 |  | https://bricksandminifigs.com/boise-id/ |
+| Idaho Falls | Idaho | (208) 656-1222 | idahofalls.id@bricksandminifigs.com | https://bricksandminifigs.com/idahofalls-id/contact-us/ |
+| Bradley | Illinois | (815) 401-7960 | bradley.il@bricksandminifigs.com | https://bricksandminifigs.com/bradley-il/contact-us/ |
+| Algonquin | Illinois | (224) 333-0105 | algonquin.il@bricksandminifigs.com | https://bricksandminifigs.com/algonquin-il/ |
+| Carol Stream | Illinois | (630) 506-5488 | carolstream.il@bricksandminifigs.com | https://bricksandminifigs.com/carolstream-il/ |
+| Crest Hill | Illinois | (815) 582-4220 | cresthill.il@bricksandminifigs.com | https://bricksandminifigs.com/cresthill-il/ |
+| Crest Hill | Illinois |  | cresthill@bricksandminifigs.com | https://bricksandminifigs.com/cresthill-il/contact-us/ |
+| Glen Carbon | Illinois | (618) 650-8007 | glencarbon.il@bricksandminifigs.com | https://bricksandminifigs.com/glencarbon-il/ |
+| Glen Carbon | Illinois |  | st.louis-2@bricksandminifigs.com | https://bricksandminifigs.com/glencarbon-il/ |
+| Naperville | Illinois | (331) 226-2180 | naperville.il@bricksandminifigs.com | https://bricksandminifigs.com/naperville-il/ |
+| Niles | Illinois | (847) 396-6942 | niles.il@bricksandminifigs.com | https://bricksandminifigs.com/niles-il/ |
+| Schaumburg | Illinois | (847) 610-5728 | events@bamschaumburg.com | https://bricksandminifigs.com/schaumburg-il/ |
+| Schaumburg | Illinois |  | schaumburg.il@bricksandminifigs.com | https://bricksandminifigs.com/schaumburg-il/contact-us/ |
+| Schererville | Indiana | (615) 788-3668 | schererville.in@bricksandminifigs.com | https://bricksandminifigs.com/schererville-in/contact-us/ |
+| Fort Wayne | Indiana | (260) 387-6230 | fortwayne.in@bricksandminifigs.com | https://bricksandminifigs.com/fortwayne-in/contact-us/ |
+| Mishawaka | Indiana |  | mishawaka.in@bricksandminifigs.com | https://bricksandminifigs.com/mishawaka-in/contact-us/ |
+| Des Moines West | Iowa | (515) 304-5269 | desmoineswest.ia@bricksandminifigs.com | https://bricksandminifigs.com/desmoineswest-ia/ |
+| Mission | Kansas | (913) 624-9488 | mission.ks@bricksandminifigs.com | https://bricksandminifigs.com/mission-ks/contact-us/ |
+| Overland Park | Kansas |  | op_ks@bricksandminifigs.com | https://bricksandminifigs.com/overlandpark-ks/ |
+| Wichita | Kansas | (316) 536-9872 | wichita.ks@bricksandminifigs.com | https://bricksandminifigs.com/wichita-ks/ |
+| Richmond | Kentucky | (859) 353-5355 | richmond.ky@bricksandminifigs.com | https://bricksandminifigs.com/richmond-ky/ |
+| Bowling Green | Kentucky | (270) 495-1118 | bowlinggreen.ky@bricksandminifigs.com | https://bricksandminifigs.com/bowlinggreen-ky/ |
+| Lexington | Kentucky | (859) 810-4313 | lexington@bricksandminifigs.com | https://bricksandminifigs.com/lexington-ky/ |
+| Louisville | Kentucky | (502) 709-4202 |  | https://bricksandminifigs.com/louisville-ky/ |
+| South Louisville | Kentucky | (502) 912-9861 |  | https://bricksandminifigs.com/louisvillehighlands-ky/ |
+| Baton Rouge South | Louisiana |  | batonrougesouth.la@bricksandminifigs.com | https://bricksandminifigs.com/batonrougesouth-la/ |
+| Metairie | Louisiana | (504) 408-1661 | metairie.la@bricksandminifigs.com | https://bricksandminifigs.com/metairie-la/contact-us/ |
+| Cockeysville | Maryland | (443) 689-2933 | owner.178@bricksandminifigs.com | https://bricksandminifigs.com/cockeysville-md/ |
+| Newton | Massachusetts | (857) 297-2747 | newton.ma@bricksandminifigs.com | https://bricksandminifigs.com/newton-ma/ |
+| Novi | Michigan | (248) 938-4219 | bamnoviparties@gmail.com | https://bricksandminifigs.com/novi-mi/ |
+| Novi | Michigan |  | novi.mi@bricksandminifigs.com | https://bricksandminifigs.com/novi-mi/contact-us/ |
+| Royal Oak | Michigan | (248) 956-1980 | royaloak.mi@bricksandminifigs.com | https://bricksandminifigs.com/royaloak-mi/contact-us/ |
+| Saint Joseph | Michigan | (269) 921-5180 | saintjoseph.mi@bricksandminifigs.com | https://bricksandminifigs.com/saintjoseph-mi/contact-us/ |
+| Walker | Michigan |  | walker.mi@bricksandminifigs.com | https://bricksandminifigs.com/walker-mi/contact-us/ |
+| Ann Arbor | Michigan | (734) 800-4183 | annarbor.mi@bricksandminifigs.com | https://bricksandminifigs.com/annarbor-mi/contact-us/ |
+| Clinton Township | Michigan | (586) 580-3180 | clintontownship.mi@bricksandminifigs.com | https://bricksandminifigs.com/clintontownship-mi/ |
+| Downriver | Michigan | (734) 301-3245 | downriver.mi@bricksandminifigs.com | https://bricksandminifigs.com/downriver-mi/contact-us/ |
+| Grand Rapids | Michigan | (616) 719-1973 | hello@bricksandminifigsgr.com | https://bricksandminifigsgr.com/ |
+| Grandville | Michigan | (616) 343-8111 | grandville.mi@bricksandminifigs.com | https://bricksandminifigs.com/grandville-mi/ |
+| Kalamazoo | Michigan | (269) 350-5690 | bamkalamazoo@gmail.com | https://bricksandminifigs.com/kalamazoo-mi/ |
+| Kalamazoo | Michigan |  | bamkalamazooparties@gmail.com | https://bricksandminifigs.com/kalamazoo-mi/ |
+| Kalamazoo | Michigan |  | bamkalamzooparties@gmail.com | https://bricksandminifigs.com/kalamazoo-mi/ |
+| Kalamazoo | Michigan |  | kalamazoo-mi@bricksandminifigs.com | https://bricksandminifigs.com/kalamazoo-mi/contact/ |
+| Kalamazoo | Michigan |  | kalamazoo.mi@bricksandminifigs.com | https://bricksandminifigs.com/kalamazoo-mi/ |
+| Midland | Michigan | (989) 486-1382 | midland.mi@bricksandminifigs.com | https://bricksandminifigs.com/midland-mi/ |
+| Woodbury | Minnesota |  | woodbury.mn@bricksandminifigs.com | https://bricksandminifigs.com/woodbury-mn/ |
+| Champlin | Minnesota | (763) 218-8132 | champlin.mn@bricksandminifigs.com | https://bricksandminifigs.com/champlin-mn/ |
+| Highland Park | Minnesota | (651) 666-3239 | highlandpark.mn@bricksandminifigs.com | https://bricksandminifigs.com/highlandpark-mn/ |
+| Mankato | Minnesota | (507) 594-9306 | mankato.mn@bricksandminifigs.com | https://bricksandminifigs.com/mankato-mn/contact-us/ |
+| Minnetonka | Minnesota | (952) 666-5916 | minnetonka.mn@bricksandminifigs.com | https://bricksandminifigs.com/minnetonka-mn/ |
+| Rochester | Minnesota | (507) 226-8049 | rochester.mn@bricksandminifigs.com | https://bricksandminifigs.com/rochester-mn/ |
+| Roseville | Minnesota | (651) 760-5642 |  | https://bricksandminifigs.com/roseville-mn/contact-us/ |
+| Shakopee | Minnesota |  | shakopee.mn@bricksandminifigs.com | https://bricksandminifigs.com/shakopee-mn/contact-us/ |
+| Hernando | Mississippi | (662) 449-9780 | hernando.ms@bricksandminifigs.com | https://bricksandminifigs.com/hernando-ms/contact-us/ |
+| Lees Summit | Missouri | (816) 603-2280 | leessummit.mo@bricksandminifigs.com | https://bricksandminifigs.com/leessummit-mo/contact-us/ |
+| O'Fallon | Missouri | (636) 339-2100 | fallon.mo@bricksandminifigs.com | https://bricksandminifigs.com/ofallon-mo/ |
+| O'Fallon | Missouri |  | o’fallon.mo@bricksandminifigs.com | https://bricksandminifigs.com/ofallon-mo/ |
+| Springfield | Missouri | (417) 771-5255 | springfield.mo@bricksandminifigs.com | https://bricksandminifigs.com/springfield-mo/ |
+| Missoula | Montana | (406) 926-1515 | missoula.mt@bricksandminifigs.com | https://bricksandminifigs.com/missoula-mt/contact-us/ |
+| Billings | Montana | (406) 969-2931 | billings.mt@bricksandminifigs.com | https://bricksandminifigs.com/billings-mt/ |
+| Great Falls | Montana | (406) 315-1650 | greatfalls.mt@bricksandminifigs.com | https://bricksandminifigs.com/greatfalls-mt/ |
+| Omaha | Nebraska | (402) 884-6323 |  | https://bricksandminifigs.com/omaha-ne/ |
+| Henderson | Nevada |  | henderson.nv@bricksandminifigs.com | https://bricksandminifigs.com/henderson-nv/ |
+| Portsmouth | New Hampshire |  | portsmouth.nh@bricksandminifigs.com | https://bricksandminifigs.com/portsmouth-nh/contact-us/ |
+| Cherry Hill | New Jersey | (856) 581-0708 | cherryhill.nj@bricksandminifigs.com | https://bricksandminifigs.com/cherryhill-nj/ |
+| Manahawkin | New Jersey | (609) 549-6351 | manahawkin.nj@bricksandminifigs.com | https://bricksandminifigs.com/manahawkin-nj/contact-us/ |
+| Albuquerque | New Mexico | (505) 369-1574 |  | https://bricksandminifigs.com/albuquerque-nm/ |
+| North Syracuse | New York |  | northsyracuse.ny@bricksandminifigs.com | https://bricksandminifigs.com/northsyracuse-ny/contact-us/ |
+| Westchester | New York | (914) 218-3313 | westchester.ny@bricksandminifigs.com | https://bricksandminifigs.com/westchester-newyork/contact-us/ |
+| Buffalo Southtowns | New York | (716) 280-6554 | buffalo.south.ny@bricksandminifigs.com | https://bricksandminifigs.com/buffalosouthtowns-ny/ |
+| Buffalo Southtowns | New York |  | buffalosouthtowns.ny@bricksandminifigs.com | https://bricksandminifigs.com/buffalosouthtowns-ny/ |
+| West Babylon | New York | (631) 320-2717 |  | https://bricksandminifigs.com/westbabylon-ny/ |
+| St. John’s | Newfoundland and Labrador | (709) 237-5700 |  | https://bricksandminifigs.com/stjohns-nl/ |
+| Jacksonville | North Carolina |  | %20jacksonville.nc@bricksandminifigs.com | https://bricksandminifigs.com/jacksonville-nc/contact-us/ |
+| Jacksonville | North Carolina |  | jacksonville.nc@bricks | https://bricksandminifigs.com/jacksonville-nc/contact-us/ |
+| Jacksonville | North Carolina |  | jacksonville.nc@bricksandminifigs.com | https://bricksandminifigs.com/jacksonville-nc/contact-us/ |
+| Sanford | North Carolina |  | sanford.nc@bricksandminifigs.com | https://bricksandminifigs.com/sanford-nc/contact-us/ |
+| Sanford | North Carolina |  | sanford.nc@bricksandminifigures.com | https://bricksandminifigs.com/sanford-nc/about/ |
+| Cary | North Carolina | (919) 336-8914 | cary.nc@bricksandminifigs.com | https://bricksandminifigs.com/cary-nc/ |
+| Downtown Raleigh | North Carolina | (919) 424-7161 | downtownraleigh.nc@bricksandminifigs.com | https://bricksandminifigs.com/downtown-raleigh-nc/contact-us/ |
+| Durham | North Carolina | (919) 294-6349 | durham.nc@bricksandminifigs.com | https://bricksandminifigs.com/durham-nc/ |
+| Greensboro | North Carolina | (336) 897-0007 | greensboro.nc@bricksandminifigs.com | https://bricksandminifigs.com/greensboro-nc/contact-us/ |
+| Hickory | North Carolina | (828) 569-1035 | hickory.nc@bricksandminifigs.com | https://bricksandminifigs.com/hickory-nc/ |
+| Huntersville | North Carolina | (980) 925-5095 | huntersville.nc@bricksandminifigs.com | https://bricksandminifigs.com/charlotte-huntersville-nc/ |
+| Indian Trail | North Carolina | (704) 774-1174 | indian.trail.nc@bricksandminifigs.com | https://bricksandminifigs.com/indiantrail-nc/ |
+| Kernersville | North Carolina | (336) 497-0751 | kernersville.nc@bricksandminifigs.com | https://bricksandminifigs.com/kernersville-nc/ |
+| North Raleigh | North Carolina | (919) 594-1853 | n.raleigh.nc@bricksandminifigs.com | https://bricksandminifigs.com/northraleigh-nc/ |
+| Winston-Salem | North Carolina | (336) 283-9475 | winston-salem.nc@bricksandminifigs.com | https://bricksandminifigs.com/winstonsalem-nc/ |
+| Akron | Ohio |  | akron.oh@bricksandminifigs.com | https://bricksandminifigs.com/akron-oh/ |
+| Maineville | Ohio | (513) 568-5645, (801) 874-2362 | maineville.oh@bricksandminifigs.com | https://bricksandminifigs.com/maineville-oh/ |
+| Cincinnati East | Ohio | (513) 800-4937 | cincinnati-east.oh@bricksandminifigs.com | https://bricksandminifigs.com/cincinnatieast-oh/contact-us/ |
+| Grandview | Ohio | (614) 525-0481 | grandview.oh@bricksandminifigs.com | https://bricksandminifigs.com/grandview-oh/ |
+| Hamilton | Ohio | (513) 737-3447 | events.hamilton.oh@bricksandminifigs.com | https://bricksandminifigs.com/hamilton-oh/ |
+| Hamilton | Ohio |  | hamilton.oh@bricksandminifigs.com | https://bricksandminifigs.com/hamilton-oh/ |
+| Hilliard | Ohio | (614) 654-8199 | hilliard.oh@bricksandminifigs.com | https://bricksandminifigs.com/hilliard-oh/ |
+| Powell | Ohio | (614) 389-2323 | powell.oh@bricksandminifigs.com | https://bricksandminifigs.com/powell-oh/ |
+| Toledo | Ohio | (567) 440-6633, (567) 440-6655 | toledo.oh@bricksandminifigs.com | https://bricksandminifigs.com/toledo-oh/ |
+| Westerville | Ohio | (614) 423-8040 | westerville.oh@bricksandminifigs.com | https://bricksandminifigs.com/westerville-oh/ |
+| Central Oklahoma City | Oklahoma |  | central.okc.ok@bricksandminifigs.com | https://bricksandminifigs.com/centraloklahomacity-ok/ |
+| Kitchener Waterloo | Ontario |  | kitchenerwaterloo.on@bricksandminifigs.com | https://bricksandminifigs.com/kitchenerwaterloo-on/ |
+| Beaverton | Oregon | (503) 644-5701 |  | https://bricksandminifigs.com/beaverton-or/ |
+| Canby | Oregon | (503) 263-3337 | canby@bricksandminifigs.com | https://bricksandminifigs.com/canby-or/contact-us/ |
+| Eugene | Oregon | (541) 225-4981 | eugene@bricksandminifigs.com | https://bricksandminifigs.com/eugene-or/ |
+| Gresham | Oregon | (503) 328-8848 | gresham.or@bricksandminifigs.com | https://bricksandminifigs.com/gresham-or/contact-us/ |
+| Medford | Oregon | (541) 414-1717 | medford.or@bricksandminifigs.com | https://bricksandminifigs.com/medford-or/contact-us/ |
+| Portland | Oregon | (503) 908-3639 | nate.funk@bricksandminifigs.com | https://bricksandminifigs.com/portland-or/ |
+| Portland | Oregon |  | portland@bricksandminifigs.com | https://bricksandminifigs.com/portland-or/ |
+| Salem | Oregon | (503) 536-2622 | salem@bricksandminifigs.com | https://bricksandminifigs.com/salem-or/ |
+| Pittsburgh North | Pennsylvania | (412) 926-7433 | pittsburghnorth.pa@bricksandminifigs.com | https://bricksandminifigs.com/pittsburghnorth-pa/contact-us/ |
+| Limerick | Pennsylvania | (445) 245-1522 | limerick.pa@bricksandminifigs.com | https://bricksandminifigs.com/limerick-pa/contact-us/ |
+| Zelienople | Pennsylvania | (724) 841-3499 | zelienople.pa@bricksandminifigs.com | https://bricksandminifigs.com/zelienople-pa/ |
+| Warwick | Rhode Island | (401) 320-8390 | providence1.ri@bricksandminifigs.com | https://bricksandminifigs.com/warwick-ri/ |
+| Warwick | Rhode Island |  | warwick.ri@bricksandminifigs.com | https://bricksandminifigs.com/warwick-ri/ |
+| Houston, Texas | River Oaks |  | riveroaks.tx@bricksandminifigs.co | https://bricksandminifigs.com/riveroaks-tx/contact-us/ |
+| Houston, Texas | River Oaks |  | riveroaks.tx@bricksandminifigs.com | https://bricksandminifigs.com/riveroaks-tx/contact-us/ |
+| Easley | South Carolina |  | easley.sc@bricksandminifigs.com | https://bricksandminifigs.com/easley-sc/ |
+| Charleston | South Carolina | (843) 872-1868 |  | https://bricksandminifigs.com/charleston-sc/ |
+| Clemson | South Carolina |  | clemson.sc@bricksandminifigs.com | https://bricksandminifigs.com/clemson-sc/ |
+| Fort Mill | South Carolina | (803) 578-8000, (918) 513-1475 | fortmill.sc@bricksandminifigs.com | https://bricksandminifigs.com/fortmill-sc/ |
+| Greer | South Carolina | (864) 747-8052 | greer.sc@bricksandminfigs.com | https://bricksandminifigs.com/greer-sc/about/ |
+| Greer | South Carolina |  | greer.sc@bricksandminifigs.com | https://bricksandminifigs.com/greer-sc/contact-us/ |
+| Myrtle Beach | South Carolina | (843) 236-3069 | myrtlebeach.sc@bricksandminifigs.com | https://bricksandminifigs.com/myrtlebeach-sc/ |
+| Sioux Falls | South Dakota | (605) 274-7447 | siouxfalls@bricksandminifigs.com | https://bricksandminifigs.com/siouxfalls-sd/ |
+| Brentwood | Tennessee | (615) 873-4328 | brentwood.tn@bricksandminifigs.com | https://bricksandminifigs.com/brentwood-tn/contact-us/ |
+| Brentwood | Tennessee |  | events.brentwood.tn@bricksandminifigs.com | https://bricksandminifigs.com/brentwood-tn/contact-us/ |
+| Chattanooga | Tennessee | (423) 602-7425 | chattanooga.tn@bricksandminifigs.com | https://bricksandminifigs.com/chattanooga-tn/ |
+| Collierville | Tennessee | (901) 207-3007 |  | https://bricksandminifigs.com/collierville-tn/ |
+| Hendersonville | Tennessee | (615) 553-8717 | hendersonville.tn@bricksandminifigs.com | https://bricksandminifigs.com/hendersonville-tn/ |
+| Murfreesboro | Tennessee | (615) 624-7228 | murfreesboro.tn@bricksandminifigs.com | https://bricksandminifigs.com/murfreesboro-tn/contact-us/ |
+| Abeline | Texas | (801) 874-2362 |  | https://bricksandminifigs.com/abelene-tx/ |
+| Greater Heights | Texas |  | greaterheights.tx@bricksandminifigs.com | https://bricksandminifigs.com/greaterheights-tx/ |
+| McAllen | Texas | (956) 843-0003 | mcallen.tx@bricksandminifigs.com | https://bricksandminifigs.com/mcallen-tx/ |
+| New Braunfels | Texas |  | selma.tx@bricksandminifigs.com | https://bricksandminifigs.com/selma-tx/ |
+| Pasadena | Texas | (832) 770-4367 | owner.321@bricksandminifigs.com | https://bricksandminifigs.com/pasadena-tx/contact-us/ |
+| Roundrock | Texas |  | roundrock.tx@bricksandminifigs.com | https://bricksandminifigs.com/roundrock-tx/contact-us/ |
+| Amarillo | Texas | (806) 437-1355 | amarillo.tx@bricksandminifigs.com | https://bricksandminifigs.com/amarillo-tx/contact-us/ |
+| Arlington | Texas | (682) 323-4188 | arlington.tx@bricksandminifigs.com | https://bricksandminifigs.com/arlington-tx/ |
+| Austin | Texas | (512) 520-8019 | austin.tx@bricksandminifigs.com | https://bricksandminifigs.com/austin-tx/ |
+| Austin | Texas |  | austin4@bricksandminifigs.com | https://bricksandminifigs.com/austin-tx/contact-us/ |
+| Austin South | Texas | (512) 774-3774 | southaustin.tx@bricksandminifigs.com | https://bricksandminifigs.com/southaustin-tx/ |
+| Bee Cave | Texas | (512) 243-5042 | beecave.tx@bricksandminifigs.com | https://bricksandminifigs.com/beecave-tx/ |
+| College Station | Texas | (979) 575-7500 | collegestation.tx@bricksandminifigs.com | https://bricksandminifigs.com/collegestation-tx/ |
+| Conroe | Texas | (936) 494-3783 | conroe.tx@bricksandminifigs.com | https://bricksandminifigs.com/conroe-tx/contact-us/ |
+| Corpus Christi | Texas | (361) 299-5742 | corpuschristi.tx@bricksandminifigs.com | https://bricksandminifigs.com/corpuschristi-tx/ |
+| Cypress | Texas | (832) 653-7235 | cypress.tx@bricksandminifigs.com | https://bricksandminifigs.com/cypress-tx/ |
+| El Paso | Texas | (915) 306-3232 | elpaso.tx@bricksandminifigs.com | https://bricksandminifigs.com/elpaso-tx/ |
+| Fair Oaks | Texas | (830) 755-6164 | fairoaks.tx@bricksandminifigs.com | https://bricksandminifigs.com/fairoaks-tx/ |
+| Frisco | Texas | (469) 200-5027 | frisco.tx@bricksandminifigs.com | https://bricksandminifigs.com/frisco-tx/ |
+| Grapevine | Texas | (682) 503-6191 | grapevine.tx-2@bricksandminifigs.com | https://bricksandminifigs.com/grapevine-tx/contact-us/ |
+| Greater Heights 1918 West 18th St. Houston, TX 77008 | Texas |  | greaterheights.tx@bricksandminifigs.com | http://bricksandminifigs.com/greaterheights-tx/ |
+| Katy | Texas |  | katy.tx@bricksandminifigs.com | https://bricksandminifigs.com/katy-tx/ |
+| League City | Texas | (832) 838-7885 | leaguecity.tx@bricksandminifigs.com | https://bricksandminifigs.com/leaguecity-tx/contact-us/ |
+| Lubbock | Texas | (806) 407-5534 |  | https://bricksandminifigs.com/lubbock-tx/ |
+| Mckinney | Texas |  | mckinney.tx@bricksandminifigs.com | https://bricksandminifigs.com/mckinney-tx/contact-us/ |
+| Meyerland | Texas | (713) 485-6376 | meyerland.tx@bricksandminifigs.com | https://bricksandminifigs.com/meyerland-tx/ |
+| Mont Belvieu | Texas | (281) 547-1611 |  | https://bricksandminifigs.com/montbelvieu-tx/ |
+| Pantego | Texas | (817) 471-3351 | pantego.tx@bricksandminifigs.com | https://bricksandminifigs.com/pantego-tx/contact-us/ |
+| Pearland | Texas | (281) 741-0279 | pearland.tx@bricksandminifigs.com | https://bricksandminifigs.com/pearland-tx/ |
+| Pearland | Texas |  | pearland@bricksandminifigs.com | https://bricksandminifigs.com/pearland-tx/contact-us/ |
+| Plano | Texas | (972) 618-2343 |  | https://bricksandminifigs.com/plano-tx/ |
+| San Antonio NE | Texas | (210) 994-8100 | bamsa@bricksandminifigs.com | https://bricksandminifigs.com/sanantonio-tx/ |
+| San Antonio NE | Texas |  | sanantonio.nw.tx@bricksandminifigs.com | https://bricksandminifigs.com/sanantonio-tx/ |
+| San Antonio NW | Texas | (210) 437-2985 | bamsa@bricksandminifigs.com | https://bricksandminifigs.com/helotes-tx/ |
+| San Antonio NW | Texas |  | sanantonio.nw.tx@bricksandminifigs.com | https://bricksandminifigs.com/helotes-tx/ |
+| Spring | Texas |  | spring.tx@bricksandminifigs.com | https://bricksandminifigs.com/spring-tx/ |
+| Sugar Land | Texas | (281) 762-0583 | sugarland.tx@bricksandminifigs.com | https://bricksandminifigs.com/sugarland-tx/ |
+| Tomball | Texas | (832) 559-1704 | tomball.tx@bricksandminifigs.com | https://bricksandminifigs.com/tomball-tx/contact-us/ |
+| Tyler | Texas | (903) 747-8049 | tyler.tx@bricksandminifigs.com | https://bricksandminifigs.com/tyler-tx/ |
+| Saint George 210 N 1000 E Saint George, UT 84770 | UT | (877) 594-0246 |  | https://bricksandminifigs.com/saintgeorge-ut/contact-us/ |
+| St. George | Utah | (435) 275-2700 | saintgeorge.ut@bricksandminifigs.com | https://bricksandminifigs.com/stgeorge-ut/contact-us/ |
+| Bountiful | Utah | (385) 243-2413 | bountiful.ut@bricksandminifigs.com | https://bricksandminifigs.com/bountiful-ut/ |
+| Bountiful | Utah |  | slc@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| Bountiful | Utah |  | southjordan@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| Logan | Utah | (435) 932-6155 | logan.ut@bricksandminifigs.com | https://bricksandminifigs.com/logan-ut/ |
+| Ogden | Utah | (385) 238-4116 | ogden.ut@bricksandminifigs.com | https://bricksandminifigs.com/ogden-ut/ |
+| Orem | Utah | (801) 874-2362 | bountiful.ut@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| Orem | Utah |  | orem@bricksandminifigs.com | https://bricksandminifigs.com/orem-ut/ |
+| Orem | Utah |  | slc@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| Orem | Utah |  | southjordan@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| Salt Lake City | Utah | (385) 429-0166 | bountiful.ut@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| Salt Lake City | Utah |  | cory@bricksandminifigs.com | http://customs.bricksandminifigsslc.com/ |
+| Salt Lake City | Utah |  | info@stagheaddesigns.com | http://customs.bricksandminifigsslc.com/ |
+| Salt Lake City | Utah |  | slc@bricksandminifigs.com | https://bricksandminifigs.com/saltlakecity-ut/ |
+| Salt Lake City | Utah |  | southjordan@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| South Jordan | Utah | (385) 645-5346 | bountiful.ut@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| South Jordan | Utah |  | slc@bricksandminifigs.com | https://bricksandminifigsslc.com/ |
+| South Jordan | Utah |  | southjordan@bricksandminifigs.com | https://bricksandminifigs.com/southjordan-ut/ |
+| Taylorsville | Utah | (385) 281-2522 | taylorsville.ut@bricksandminifigs.com | https://bricksandminifigs.com/taylorsville-ut/ |
+| Alexandria | Virginia |  | alexandria.va@bricksandminifigs.com | https://bricksandminifigs.com/alexandria-va/contact-us/ |
+| Charlottesville | Virginia | (434) 956-4108 | charlottesville@bricksandminifigs.com | https://bricksandminifigs.com/charlottesville-va/ |
+| Fredericksburg | Virginia | (540) 370-7098 | fredericksburg.va@bricksandminifigs.com | https://bricksandminifigs.com/fredericksburg-va/contact/ |
+| Herndon | Virginia | (571) 249-3043 | herndon.va@bricksandminifigs.com | https://bricksandminifigs.com/herndon-va/ |
+| Richmond | Virginia | (804) 308-3119 | richmondwestend.va@bricksandminifigs.com | https://bricksandminifigs.com/richmond-va/ |
+| Richmond-Southside | Virginia | (804) 716-4338 | richmondsouthside.va@bricksandminifigs.com | https://bricksandminifigs.com/richmondsouthside-va/ |
+| Williamsburg | Virginia | (757) 808-6450 | williamsburg.va@bricksandminifigs.com | https://bricksandminifigs.com/williamsburg-va/ |
+| Woodbridge | Virginia | (571) 207-6777 | woodbridge.va@bricksandminifigs.com | https://bricksandminifigs.com/woodbridge-va/contact-us/ |
+| Seattle Northgate | Washington | (206) 556-3961 |  | https://bricksandminifigs.com/northseattle-wa/contact-us/ |
+| Federal Way | Washington | (253) 313-0880 | federalway.wa@bricksandminifigs.com | https://bricksandminifigs.com/federalway-wa/ |
+| Issaquah | Washington | (425) 657-0608 | issaquah.wa@bricksandminifigs.com | https://bricksandminifigs.com/issaquah-wa/ |
+| Monroe | Washington | (360) 243-3068 |  | https://bricksandminifigs.com/monroe-wa/ |
+| Olympia | Washington | (360) 539-7044 | olympia.wa@bricksandminifigs.com | https://bricksandminifigs.com/olympia-wa/ |
+| South Everett | Washington | (425) 512-9780 | southeverett.wa@bricksandminifigs.com | https://bricksandminifigs.com/southeverett-wa/ |
+| Vancouver | Washington | (360) 723-5032 |  | https://bricksandminifigs.com/vancouver-wa/ |
+| Wenatchee | Washington | (509) 888-4846 | wenatchee.wa@bricksandminifigs.com | https://bricksandminifigs.com/wenatchee-wa/ |
+| Beaver Dam | Wisconsin |  | beaverdam.wi@bricksandminifigs.com | https://bricksandminifigs.com/beaverdam-wi/ |
+| Brookfield | Wisconsin | (262) 330-8848 | brookfield.wi@bricksandminifigs.com | https://bricksandminifigs.com/brookfield-wi/ |
+| Fox Valley | Wisconsin | (920) 502-0008 | foxvalley.wi@bricksandminifigs.com | https://bricksandminifigs.com/foxvalley-wi/ |
+| Franklin | Wisconsin | (414) 808-2263 | franklin.wi@bricksandminifigs.com | https://bricksandminifigs.com/franklin-wi/ |
+| Kenosha | Wisconsin | (262) 764-0048 | kenosha.wi@bricksandminifigs.com | https://bricksandminifigs.com/kenosha-wi/ |
+| Madison | Wisconsin | (608) 286-1302 |  | https://bricksandminifigs.com/madison-wi/ |
+| North Shore MKE | Wisconsin | (414) 206-0114 | northshore.mke.wi@bricksandminifigs.com | https://bricksandminifigs.com/northshoremke-wi/ |
+| spartanburg | south carolina | (864) 597-6497 | spartanburg.sc@bricksandminifigs.com | https://bricksandminifigs.com/spartanburg-sc/ |
 
 ## Corporate Emails
 
@@ -254,55 +316,56 @@ Public business contact emails collected from official Bricks & Minifigs franchi
 
 ## Stores Without Email Found
 
-*50 locations had no publicly listed email on checked pages.*
+*51 locations had no publicly listed email on checked pages.*
 
-- **LEGO Store in Loveland, CO** — [https://bricksandminifigs.com/loveland-co/contact-us/](https://bricksandminifigs.com/loveland-co/contact-us/)
-- **Arizona – Central Phoenix** — [https://bricksandminifigs.com/central-phoenix-az/contact-us/](https://bricksandminifigs.com/central-phoenix-az/contact-us/)
-- **Arizona – Gilbert** — [https://bricksandminifigs.com/gilbert-az/contact-us/](https://bricksandminifigs.com/gilbert-az/contact-us/)
-- **Arizona – Mesa Red Mountain** — [https://bricksandminifigs.com/mesaredmtn-az/contact-us/](https://bricksandminifigs.com/mesaredmtn-az/contact-us/)
+- **Arizona – Central Phoenix** — Phone: (602) 675-1392 — [https://bricksandminifigs.com/central-phoenix-az/contact-us/](https://bricksandminifigs.com/central-phoenix-az/contact-us/)
+- **Arizona – Gilbert** — Phone: (480) 588-3953 — [https://bricksandminifigs.com/gilbert-az/contact-us/](https://bricksandminifigs.com/gilbert-az/contact-us/)
+- **Arizona – Mesa Red Mountain** — Phone: (480) 565-6166 — [https://bricksandminifigs.com/mesaredmtn-az/contact-us/](https://bricksandminifigs.com/mesaredmtn-az/contact-us/)
 - **Arizona – Tucson** — [https://bricksandminifigs.com/tucson-az/contact-us/](https://bricksandminifigs.com/tucson-az/contact-us/)
-- **California – Anaheim** — [https://bricksandminifigs.com/anaheim-ca/contact-us/](https://bricksandminifigs.com/anaheim-ca/contact-us/)
-- **California – Ontario** — [https://bricksandminifigs.com/ontario-ca/contact-us/](https://bricksandminifigs.com/ontario-ca/contact-us/)
+- **CA – Lomita 2244 Pacific Coast Hwy STE 107 Lomita, CA 90717** — [https://bricksandminifigs.com/lomita-ca/contact-us/](https://bricksandminifigs.com/lomita-ca/contact-us/)
+- **CO – Loveland 1449 Denver Ave Loveland, CO 80525** — Phone: (970) 888-3783 — [https://bricksandminifigs.com/loveland-co/contact-us/](https://bricksandminifigs.com/loveland-co/contact-us/)
+- **California – Anaheim** — Phone: (657) 378-9777 — [https://bricksandminifigs.com/anaheim-ca/contact-us/](https://bricksandminifigs.com/anaheim-ca/contact-us/)
+- **California – Ontario** — Phone: (909) 321-0022, (909) 391-8248 — [https://bricksandminifigs.com/ontario-ca/contact-us/](https://bricksandminifigs.com/ontario-ca/contact-us/)
 - **California – Riverside** — [https://bricksandminifigs.com/riverside-california/contact-us/](https://bricksandminifigs.com/riverside-california/contact-us/)
+- **California – San Diego Central 4242 Camino Del Rio North Suite 7 San Diego, CA 92108** — Phone: (877) 594-0246 — [https://bricksandminifigs.com/sandiegowest-ca/contact-us/](https://bricksandminifigs.com/sandiegowest-ca/contact-us/)
 - **Colorado - Arvada** — [https://bricksandminifigs.com/arvada-co/contact-us/](https://bricksandminifigs.com/arvada-co/contact-us/)
-- **Colorado – Colorado Springs North** — [https://bricksandminifigs.com/northcoloradosprings-co/contact-us/](https://bricksandminifigs.com/northcoloradosprings-co/contact-us/)
-- **Colorado – Pueblo** — [https://bricksandminifigs.com/pueblo-co/contact-us/](https://bricksandminifigs.com/pueblo-co/contact-us/)
+- **Colorado – Colorado Springs North** — Phone: (719) 309-6196 — [https://bricksandminifigs.com/northcoloradosprings-co/contact-us/](https://bricksandminifigs.com/northcoloradosprings-co/contact-us/)
+- **Colorado – Pueblo** — Phone: (615) 766-5929 — [https://bricksandminifigs.com/pueblo-co/contact-us/](https://bricksandminifigs.com/pueblo-co/contact-us/)
 - **Florida – Central Tampa** — [https://bricksandminifigs.com/centraltampa-fl/contact-us/](https://bricksandminifigs.com/centraltampa-fl/contact-us/)
-- **Florida – Clearwater** — [https://bricksandminifigs.com/clearwater-fl/contact-us/](https://bricksandminifigs.com/clearwater-fl/contact-us/)
-- **Florida – Orlando South** — [https://bricksandminifigs.com/orlandosouth-fl/contact-us/](https://bricksandminifigs.com/orlandosouth-fl/contact-us/)
-- **Florida – Port Charlotte** — [https://bricksandminifigs.com/port-charlotte-fl/contact-us/](https://bricksandminifigs.com/port-charlotte-fl/contact-us/)
-- **Georgia – Johns Creek** — [https://bricksandminifigsjohnscreek.myshopify.com/contact-us/](https://bricksandminifigsjohnscreek.myshopify.com/contact-us/)
-- **Idaho - Coeur d'Alene** — [https://bricksandminifigs.com/coeurdalene-id/contact-us/](https://bricksandminifigs.com/coeurdalene-id/contact-us/)
-- **Idaho – Boise** — [https://bricksandminifigs.com/boise-id/contact-us/](https://bricksandminifigs.com/boise-id/contact-us/)
-- **Kentucky – Louisville** — [https://bricksandminifigs.com/louisville-ky/contact-us/](https://bricksandminifigs.com/louisville-ky/contact-us/)
-- **Kentucky – South Louisville** — [https://bricksandminifigs.com/louisvillehighlands-ky/contact-us/](https://bricksandminifigs.com/louisvillehighlands-ky/contact-us/)
-- **Michigan – Grand Rapids** — [https://bricksandminifigs.com/grandrapids-mi/contact-us/](https://bricksandminifigs.com/grandrapids-mi/contact-us/)
+- **Florida – Clearwater** — Phone: (727) 516-7512 — [https://bricksandminifigs.com/clearwater-fl/contact-us/](https://bricksandminifigs.com/clearwater-fl/contact-us/)
+- **Florida – Orlando South** — Phone: (407) 203-3485 — [https://bricksandminifigs.com/orlandosouth-fl/contact-us/](https://bricksandminifigs.com/orlandosouth-fl/contact-us/)
+- **Florida – Port Charlotte** — Phone: (941) 875-5073 — [https://bricksandminifigs.com/port-charlotte-fl/contact-us/](https://bricksandminifigs.com/port-charlotte-fl/contact-us/)
+- **Idaho - Coeur d'Alene** — Phone: (208) 667-5131 — [https://bricksandminifigs.com/coeurdalene-id/contact-us/](https://bricksandminifigs.com/coeurdalene-id/contact-us/)
+- **Idaho – Boise** — Phone: (208) 377-4386 — [https://bricksandminifigs.com/boise-id/contact-us/](https://bricksandminifigs.com/boise-id/contact-us/)
+- **Kentucky – Louisville** — Phone: (502) 709-4202 — [https://bricksandminifigs.com/louisville-ky/contact-us/](https://bricksandminifigs.com/louisville-ky/contact-us/)
+- **Kentucky – South Louisville** — Phone: (502) 912-9861 — [https://bricksandminifigs.com/louisvillehighlands-ky/contact-us/](https://bricksandminifigs.com/louisvillehighlands-ky/contact-us/)
 - **Michigan – Lansing** — [https://bricksandminifigs.com/lansing-mi/contact-us/](https://bricksandminifigs.com/lansing-mi/contact-us/)
 - **Minnesota – Apple Valley** — [https://bricksandminifigs.com/applevalley-mn/contact-us/](https://bricksandminifigs.com/applevalley-mn/contact-us/)
 - **Minnesota – Blaine** — [https://bricksandminifigs.com/blaine-mn/contact-us/](https://bricksandminifigs.com/blaine-mn/contact-us/)
-- **Minnesota – Roseville** — [https://bricksandminifigs.com/roseville-mn/contact-us/](https://bricksandminifigs.com/roseville-mn/contact-us/)
+- **Minnesota – Roseville** — Phone: (651) 760-5642 — [https://bricksandminifigs.com/roseville-mn/contact-us/](https://bricksandminifigs.com/roseville-mn/contact-us/)
 - **Missouri - Kansas City Northeast** — [https://bricksandminifigs.com/kansascitynortheast-mo/contact-us/](https://bricksandminifigs.com/kansascitynortheast-mo/contact-us/)
-- **Nebraska – Omaha** — [https://bricksandminifigs.com/omaha-ne/contact-us/](https://bricksandminifigs.com/omaha-ne/contact-us/)
-- **New Mexico – Albuquerque** — [https://bricksandminifigs.com/albuquerque-nm/contact-us/](https://bricksandminifigs.com/albuquerque-nm/contact-us/)
-- **New York – West Babylon** — [https://bricksandminifigs.com/westbabylon-ny/contact-us/](https://bricksandminifigs.com/westbabylon-ny/contact-us/)
-- **Newfoundland and Labrador – St. John’s** — [https://bricksandminifigs.com/stjohns-nl/contact-us/](https://bricksandminifigs.com/stjohns-nl/contact-us/)
+- **Nebraska – Omaha** — Phone: (402) 884-6323 — [https://bricksandminifigs.com/omaha-ne/contact-us/](https://bricksandminifigs.com/omaha-ne/contact-us/)
+- **New Mexico – Albuquerque** — Phone: (505) 369-1574 — [https://bricksandminifigs.com/albuquerque-nm/contact-us/](https://bricksandminifigs.com/albuquerque-nm/contact-us/)
+- **New York – West Babylon** — Phone: (631) 320-2717 — [https://bricksandminifigs.com/westbabylon-ny/contact-us/](https://bricksandminifigs.com/westbabylon-ny/contact-us/)
+- **Newfoundland and Labrador – St. John’s** — Phone: (709) 237-5700 — [https://bricksandminifigs.com/stjohns-nl/contact-us/](https://bricksandminifigs.com/stjohns-nl/contact-us/)
 - **North Carolina – Fayetteville** — [https://bricksandminifigs.com/fayetteville-nc/contact-us/](https://bricksandminifigs.com/fayetteville-nc/contact-us/)
-- **Oregon – Beaverton** — [https://bricksandminifigs.com/beaverton-or/contact-us/](https://bricksandminifigs.com/beaverton-or/contact-us/)
-- **South Carolina – Charleston** — [https://bricksandminifigs.com/charleston-sc/contact-us/](https://bricksandminifigs.com/charleston-sc/contact-us/)
-- **Tennessee – Collierville** — [https://bricksandminifigs.com/collierville-tn/contact-us/](https://bricksandminifigs.com/collierville-tn/contact-us/)
-- **Texas - Abeline** — [https://bricksandminifigs.com/abelene-tx/contact-us/](https://bricksandminifigs.com/abelene-tx/contact-us/)
+- **Oregon – Beaverton** — Phone: (503) 644-5701 — [https://bricksandminifigs.com/beaverton-or/contact-us/](https://bricksandminifigs.com/beaverton-or/contact-us/)
+- **South Carolina – Charleston** — Phone: (843) 872-1868 — [https://bricksandminifigs.com/charleston-sc/contact-us/](https://bricksandminifigs.com/charleston-sc/contact-us/)
+- **Tennessee – Collierville** — Phone: (901) 207-3007 — [https://bricksandminifigs.com/collierville-tn/contact-us/](https://bricksandminifigs.com/collierville-tn/contact-us/)
+- **Texas - Abeline** — Phone: (801) 874-2362 — [https://bricksandminifigs.com/abelene-tx/contact-us/](https://bricksandminifigs.com/abelene-tx/contact-us/)
 - **Texas - Houston** — [https://bricksandminifigs.com/houston-tx/contact-us/](https://bricksandminifigs.com/houston-tx/contact-us/)
 - **Texas – Dallas 16** — [https://bricksandminifigs.com/dallas16-tx/contact-us/](https://bricksandminifigs.com/dallas16-tx/contact-us/)
 - **Texas – Keller** — [https://bricksandminifigs.com/keller-tx/contact-us/](https://bricksandminifigs.com/keller-tx/contact-us/)
-- **Texas – Lubbock** — [https://bricksandminifigs.com/lubbock-tx/contact-us/](https://bricksandminifigs.com/lubbock-tx/contact-us/)
-- **Texas – Mont Belvieu** — [https://bricksandminifigs.com/montbelvieu-tx/contact-us/](https://bricksandminifigs.com/montbelvieu-tx/contact-us/)
-- **Texas – Plano** — [https://bricksandminifigs.com/plano-tx/contact-us/](https://bricksandminifigs.com/plano-tx/contact-us/)
+- **Texas – Lubbock** — Phone: (806) 407-5534 — [https://bricksandminifigs.com/lubbock-tx/contact-us/](https://bricksandminifigs.com/lubbock-tx/contact-us/)
+- **Texas – Mont Belvieu** — Phone: (281) 547-1611 — [https://bricksandminifigs.com/montbelvieu-tx/contact-us/](https://bricksandminifigs.com/montbelvieu-tx/contact-us/)
+- **Texas – Plano** — Phone: (972) 618-2343 — [https://bricksandminifigs.com/plano-tx/contact-us/](https://bricksandminifigs.com/plano-tx/contact-us/)
+- **UT – Saint George 210 N 1000 E Saint George, UT 84770** — Phone: (877) 594-0246 — [https://bricksandminifigs.com/saintgeorge-ut/contact-us/](https://bricksandminifigs.com/saintgeorge-ut/contact-us/)
 - **Virginia - Loudoun** — [https://bricksandminifigs.com/loudoun-va/contact-us/](https://bricksandminifigs.com/loudoun-va/contact-us/)
 - **Virginia - Roanoke** — [https://bricksandminifigs.com/roanoke-va/contact-us/](https://bricksandminifigs.com/roanoke-va/contact-us/)
 - **Virginia – Chesapeake** — [https://bricksandminifigs.com/chesapeake-va/contact-us/](https://bricksandminifigs.com/chesapeake-va/contact-us/)
 - **Virginia – Falls Church** — [https://bricksandminifigs.com/fallschurch-va/contact-us/](https://bricksandminifigs.com/fallschurch-va/contact-us/)
-- **Washington - Seattle Northgate** — [https://bricksandminifigs.com/northseattle-wa/contact-us/](https://bricksandminifigs.com/northseattle-wa/contact-us/)
-- **Washington – Monroe** — [https://bricksandminifigs.com/monroe-wa/contact-us/](https://bricksandminifigs.com/monroe-wa/contact-us/)
-- **Washington – Vancouver** — [https://bricksandminifigs.com/vancouver-wa/contact-us/](https://bricksandminifigs.com/vancouver-wa/contact-us/)
+- **Washington - Seattle Northgate** — Phone: (206) 556-3961 — [https://bricksandminifigs.com/northseattle-wa/contact-us/](https://bricksandminifigs.com/northseattle-wa/contact-us/)
+- **Washington – Monroe** — Phone: (360) 243-3068 — [https://bricksandminifigs.com/monroe-wa/contact-us/](https://bricksandminifigs.com/monroe-wa/contact-us/)
+- **Washington – Vancouver** — Phone: (360) 723-5032 — [https://bricksandminifigs.com/vancouver-wa/contact-us/](https://bricksandminifigs.com/vancouver-wa/contact-us/)
 - **Wisconsin - Janesville** — [https://bricksandminifigs.com/janesville-wi/contact-us/](https://bricksandminifigs.com/janesville-wi/contact-us/)
-- **Wisconsin – Madison** — [https://bricksandminifigs.com/madison-wi/contact-us/](https://bricksandminifigs.com/madison-wi/contact-us/)
+- **Wisconsin – Madison** — Phone: (608) 286-1302 — [https://bricksandminifigs.com/madison-wi/contact-us/](https://bricksandminifigs.com/madison-wi/contact-us/)
